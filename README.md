@@ -2,7 +2,7 @@
 
 ESOPT是由C++开发的高效建模求解工具，能有效对工程问题进行数学建模求解，其效率超越市面上其他同类产品。
 
-![esopt-pyomo-gams](.\esopt-pyomo-gams.png)
+![esopt-pyomo-gams](./esopt-pyomo-gams.png)
 
 ## 安装方法
 
